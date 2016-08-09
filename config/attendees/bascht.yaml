@@ -58,3 +58,7 @@ events:
     events:
       - {name: eurucamp, role: "Organizer"}
       - Euruko
+  - year: 2016
+    events:
+      - {name: microxchg, role: "Speaker"}
+      - Flock to Fedora
